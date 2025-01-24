@@ -1,6 +1,6 @@
 # Rust S3 File Upload and Download Example
 
-This project demonstrates how to upload and download files to and from an AWS S3 bucket using Rust.
+This project demonstrates how to upload and download files to AWS S3 bucket using Rust.
 
 ## Project Structure
 
